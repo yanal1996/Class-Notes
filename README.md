@@ -29,5 +29,5 @@ In this part, we learned what Markdown is and how to utilize it on github to cre
 Here we discused an intro to Git and Github and learned the history of them, why they are important and how to utilize them. How it can save your code and make life easier for multiple developers to work with. 
 
 
-![](https://www.google.com/url?sa=i&url=https%3A%2F%2Fifunny.co%2Fpicture%2Fhalt-no-simps-allowed-beyond-this-point-bQpm4PHv7&psig=AOvVaw1xsJ63cv8LRdN8LrmAtoJV&ust=1612357210558000&source=images&cd=vfe&ved=0CAIQjRxqFwoTCKjfoe-gy-4CFQAAAAAdAAAAABAL)
+![](https://ih1.redbubble.net/image.1289724957.1800/st,small,507x507-pad,600x600,f8f8f8.jpg)
 
