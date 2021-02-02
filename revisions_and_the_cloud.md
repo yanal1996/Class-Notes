@@ -1,0 +1,1 @@
+Here we discused an intro to Git and Github and learned the history of them, why they are important and how to utilize them. How it can save your code and make life easier for multiple developers to work with.
