@@ -1,3 +1,4 @@
+# Growth mindset
 **Growth** mindset basically states that genetics and inteligence are not as important as hard work. People with growth mindsets can overcome challanges by extra practice and hard work. 
 * My personal reminders of how to stay in a growth mindset is its not easy, very difficult actually, and that is why you need to stay in it because most people are too lazy to do so therfore, you have little competition. 
 
