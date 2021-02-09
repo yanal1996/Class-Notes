@@ -1,2 +1,3 @@
 # Operators and loops
+
 in this part we learn about operators and loops where some comparison operators are == which compares if aluales are equal, != where it compares if the values are not equal, === where it only returns true in the value and data type are equal, !== where it returns true if nothing is equal, > gives true if the frst number is larger, < returns true if the first number is smaller and <= and >= are the same but also return true if the numbers are equal. we also learned about for and while loops where the for loop keeps looping until a counter is finished while a while loop will continue looping until the bolean value in it becomes false.

@@ -1,0 +1,2 @@
+# 1 functions
+We learned about functions, there use and how to call them where functions are basically saved codes that we refer back to whenever we need them by calling the function. Rather than type the code multiple times. 

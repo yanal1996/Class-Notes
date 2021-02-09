@@ -6,3 +6,5 @@
 * [duckett](book.md)
 * [Programming with JavaScript](javascript.md)
 * [operators](Operators.md)
+* [functions](functions.md)
+* [css](css.md)
