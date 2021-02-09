@@ -5,4 +5,4 @@
 * [cars](cars.html)
 * [duckett](book.md)
 * [Programming with JavaScript](javascript.md)
-* [operators](operators.md)
+* [operators](Operators.md)
