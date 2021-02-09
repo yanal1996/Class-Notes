@@ -1,0 +1,3 @@
+# Programming with JavaScript
+In this section we read Duckets javascript book and learned that scripts are a series of instructions used to tell a computer what to do. For computers, we need to specify the scripts in detail and not act how us humans do tasks. We also learned about operators where they can be used to set a value, create mathmatical formulas, create strings, compare numbers or strings and create logical sentances like and or or or not.
+We also read about functions where we learned functions are pieces of code that we can save and use over and over again by calling its name, rather than needing to type it multiple times. 

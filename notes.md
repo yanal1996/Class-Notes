@@ -4,3 +4,5 @@
 * [Commands](cmd.md)
 * [cars](cars.html)
 * [duckett](book.md)
+* [Programming with JavaScript](javascript.md)
+* [operators](operators.md)
