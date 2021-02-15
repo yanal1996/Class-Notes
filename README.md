@@ -9,6 +9,7 @@ I am a biotechnologist working on becoming a bioinformatician through self taugh
 ## Table of content:
 [links](https://yanal1996.github.io/Class-Notes/reading)
 [notes](notes.md)
+[labs](labs.md)
 
 
 ![](https://ih1.redbubble.net/image.1289724957.1800/st,small,507x507-pad,600x600,f8f8f8.jpg)
