@@ -13,3 +13,4 @@
 ## Code 201 Reading Notes
 * [class 1](class-01.md)
 * [class 2](class-02.md)
+* [read 3](read3.md)

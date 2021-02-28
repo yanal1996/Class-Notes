@@ -1,0 +1,4 @@
+# Read 3
+here we learn about the type of lists which are unordered, ordered and definitions, we learned hoy html elements are stored in boxes and we can change te size and shape of the boxes, including margins, borders and padding and with css3 we can even import images for boxes.
+then we read abou arrays where arrays are a tool to store multiple information that all relate together. we can even store information as strings, intigers and bolean. we can edit arrays and call them and they start with the index 0, not 1.
+finally we talked about switch statments where the interisting part about it is the fact that we can put multiple scenerios and the one that matches will run the code that is associated with it.
